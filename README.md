@@ -1,7 +1,3 @@
-# HTML_CSS_3
-
-
-
 # Teilprüfung 3 – Produktseite für Unternehmenswebseite
 
 Dies ist eine Prüfungsaufgabe aus meiner Weiterbildung zur Webentwicklerin.  
